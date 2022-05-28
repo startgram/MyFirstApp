@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyFirstApp</string>
+
+    <string name="btn_01">Event 1</string>
+    <string name="btn_02">Event 2</string>
+    <string name="btn_03">Event 3</string>
+
+    <string name="txt_event_01">Event One</string>
+    <string name="btn_event_01">Back</string>
+</resources>
